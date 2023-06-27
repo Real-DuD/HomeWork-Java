@@ -49,10 +49,6 @@ public class Semester_3_HomeWork_1 {
             Sword Sword_1 = new Sword(ingot_1);
             Sword Sword_2 = new Sword(ingot_2);
             Sword Sword_3 = new Sword(ingot_3);
-
-
-
-
             //Sword Sword_4 = new Sword(ingot_4); (не получается)
 
             if (Sword_1.EndurenceCheck()) {
